@@ -1,4 +1,4 @@
-# Flask Hello World with Docker and Kubernetes
+# Flask Application with Docker and Kubernetes
 
 This project demonstrates the containerization of a simple Flask application using Docker and its deployment on a local Kubernetes cluster using Minikube. It serves as an introductory guide to Docker and Kubernetes, showcasing how to build, containerize, and deploy a "Hello, World" Flask application.
 
